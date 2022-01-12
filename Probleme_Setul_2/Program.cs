@@ -25,8 +25,8 @@ namespace Probleme_Setul_2
             //P13();
             //P14();
             //P15();
-            //P16();
-            P17();
+            //P16();?
+            //P17();
         }
 
         /// <summary>
